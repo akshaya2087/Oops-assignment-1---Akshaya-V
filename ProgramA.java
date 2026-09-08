@@ -31,7 +31,7 @@ class SmartDevice extends Device {
 public class ProgramA {
     public static void main(String[] args) {
         System.out.println("Student Name : Akshaya V");
-        System.out.println("Register No  : 11302514804");
+        System.out.println("Register No  : 113025148004");
         System.out.println("----------------------------------");
 
         SmartDevice smartPhone = new SmartDevice("Samsung", 899.99, "5G / Wi-Fi 6");
