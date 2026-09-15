@@ -23,7 +23,7 @@ class WarrantyValidator {
 public class ProgramC {
     public static void main(String[] args) {
         System.out.println("Student Name : Akshaya V");
-        System.out.println("Register No  : 11302514804");
+        System.out.println("Register No  : 113025148004");
         System.out.println("----------------------------------");
 
         // Test with negative warranty period to demonstrate custom exception
